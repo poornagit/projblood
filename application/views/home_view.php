@@ -38,8 +38,7 @@
 		<div class="banner-bottom wow bounceIn animated" data-wow-delay="0.4s">
 			<div class="container">
 			    <h2>ABOUT</h2>
-				<p>Dolor nunc vule putateulr ips dol consec.Donec sem ertet laciniate ultricie upie disse utes comete dolo lectus. fgilla itollicil tua ludin dolor nec met quam accumsan. Dolore condime netus lullam utlacus adipiscing ipsum molestie euismod lore estibulum vel libero ipsum sit
-				amet sollicitudin ante. Aenean imperdiet aliquet hendreritunc interdum ullamcorper lec tuset pellentesqu enim interdum atuspendisse malesuada dignissim.</p>
+				<p>A blood donation occurs when a person voluntarily has blood drawn and used for transfusions and/or made into biopharmaceutical medications by a process called fractionation (separation of whole-blood components). Donation may be of whole blood (WB), or of specific components directly (the latter called apheresis). Blood banks often participate in the collection process as well as the procedures that follow it.</p>
 			 </div>
 		</div>
 		<!--tainers-section-->
@@ -47,8 +46,8 @@
 	 				 <div class="container">
 						<!--sreen-gallery-cursual-->
 						<div class="col-md-3 tainer wow bounceInLeft" data-wow-delay="0.4s">
-						      <h3>Our Trainers</h3>
-							  <p>Why not give one of these popular classes a look?</p>
+						      <h3>Blood Donation Campaigns</h3>
+							  
 						</div>
 						<div class="col-md-9 sreen-gallery-cursual wow bounceInRight" data-wow-delay="0.4s">
 							<!-- start content_slider -->
@@ -144,7 +143,7 @@
 <!--classes-->
 		<div class="clases-section">
 			<div class="container">
-			             <h3>Our Classes</h3>
+			             <h3>Blood Groups</h3>
 			     <div class="class-grids">
 					 <div class="col-md-6 class-grid wow zoomInLeft animated">
 					     <img src="<?php echo base_url('assets/images/c1.jpg'); ?>" class="img-responsive" alt="" />
@@ -245,9 +244,9 @@
 		         <h3>Our news</h3>
 				 <div class="new">
 				   <div class="col-md-6 new-text wow rollIn animated" data-wow-delay="0.4s">
-					   <h5>THU 14 May, 2015</h5>
-					   <a href="single.html"><h4>How to lose fat fast</h4></a>
-					   <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+					   <h5>THU 14 May, 2017</h5>
+					   <a href="single.html"><h4>Storage and blood shelf life</h4></a>
+					   <p>The collected blood is usually stored in a blood bank as separate components, and some of these have short shelf lives. There are no storage solutions to keep platelets for extended periods of time, though some are being studied as of 2008.[80] The longest shelf life used for platelets is seven days</p>
 				   </div>
 					<div class="col-md-6 welcome-img">
 					 <a href="single.html" class="mask"><img src="<?php echo base_url('assets/images/n1.jpg'); ?>" alt="image" class="img-responsive zoom-img"></a>
@@ -257,8 +256,8 @@
 			    <div class="new">
 				 <div class="col-md-6 new-text two wow rollIn animated" data-wow-delay="0.4s">
 					   <h5>THU 14 May, 2015</h5>
-					  <a href="single.html"><h4>Build your six pack</h4></a>
-										   <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+					  <a href="single.html"><h4>Demand for blood</h4></a>
+										   <p>The limited storage time means that it is difficult to have a stockpile of blood to prepare for a disaster. The subject was discussed at length after the September 11 attacks in the United States, and the consensus was that collecting during a disaster was impractical and that efforts should be focused on maintaining an adequate supply at all times.[85] Blood centers in the U.S. often have difficulty maintaining even a three-day supply for routine transfusion demands.</p>
 				   </div>
 					<div class="col-md-6 new-img two">
 					 <a href="single.html" class="mask"><img src="<?php echo base_url('assets/images/n3.jpg'); ?>" alt="image" class="img-responsive zoom-img"></a>
@@ -268,8 +267,8 @@
 			    <div class="new">
 				   <div class="col-md-6 new-text wow rollIn animated" data-wow-delay="0.4s">
 					   <h5>THU 14 May, 2015</h5>
-					   <a href="single.html"><h4>How to lose fat fast</h4></a>
-					   <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+					   <a href="single.html"><h4>Donation levels</h4></a>
+					   <p>The World Health Organization (WHO) recognizes World Blood Donor Day on 14 June each year to promote blood donation. This is the birthday of Karl Landsteiner, the scientist who discovered the ABO blood group system.[87] The theme of the 2012 World Blood Donor Day campaign, "Every blood donor is a hero" focuses on the idea that everyone can become a hero by giving blood. As of 2008, the WHO estimated that more than 81 million units of blood were being collected annually.</p>
 				   </div>
 					<div class="col-md-6 welcome-img">
 					 <a href="single.html" class="mask"><img src="<?php echo base_url('assets/images/n2.jpg'); ?>" alt="image" class="img-responsive zoom-img"></a>
